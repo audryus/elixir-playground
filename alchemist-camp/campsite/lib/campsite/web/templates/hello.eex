@@ -1,0 +1,8 @@
+Hi ! I'm a temaplte ! Aren't I <%= adj %> ?
+
+I can do
+  <%= if 3 == val do %>
+  control structure and
+  <%end %>
+  stuff
+end
