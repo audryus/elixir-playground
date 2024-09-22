@@ -1,0 +1,3 @@
+%{
+  "colors": {:hex, :colors, "1.1.1", "9e6d0c6bbf44447e9fd4a2929db98f95ce4e2181b33d57ae8f30e8c1ce12935c", [:mix], [], "hexpm", "f1c06de5d0c23dc112318d7339083a8cc4c0fc944fd2cbf38b8474adcf77419a"},
+}
